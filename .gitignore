@@ -1,0 +1,25 @@
+# Nintendo-owned data and keys: never commit
+orig/
+decomp/build/
+toolchain/
+*.wad
+.build/
+.DS_Store
+research/reference/
+# iPhone build: staged Nintendo files (copied from your own WAD by tools/ios/stage_assets.sh) and generated project
+iOS/Resources/
+iOS/*.xcodeproj/
+.build-*/
+.qa/
+.build-*/
+common-key.bin
+*.key
+iOS/Local.xcconfig
+.swiftpm/
+*.xcuserstate
+xcuserdata/
+# Third-party source kept locally for reference only (GPL/AGPL; see README credits) and extracted Nintendo data
+research/dolphin/
+research/filemaker/
+research/snd/ogws/
+research/snd/out/

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Location</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<integer>0</integer>
+			<key>Key</key>
+			<string>location</string>
+			<key>Title</key>
+			<string>Closest Location</string>
+			<key>Titles</key>
+			<array>
+				<string>Current Location</string>
+				<string>Aberdeen, South Dakota</string>
+				<string>Akron, Ohio</string>
+				<string>Albuquerque, New Mexico</string>
+				<string>Alexandria, Virginia</string>
+				<string>Allentown, Pennsylvania</string>
+				<string>Amarillo, Texas</string>
+				<string>Anaheim, California</string>
+				<string>Anchorage, Alaska</string>
+				<string>Arlington, Texas</string>
+				<string>Arlington, Virginia</string>
+				<string>Astoria, New York</string>
+				<string>Atlanta, Georgia</string>
+				<string>Aurora, Colorado</string>
+				<string>Aurora, Illinois</string>
+				<string>Austin, Texas</string>
+				<string>Bakersfield, California</string>
+				<string>Baltimore, Maryland</string>
+				<string>Bangor, Maine</string>
+				<string>Baton Rouge, Louisiana</string>
+				<string>Bellevue, Nebraska</string>
+				<string>Billings, Montana</string>
+				<string>Birmingham, Alabama</string>
+				<string>Bismarck, North Dakota</string>
+				<string>Boise, Idaho</string>
+				<string>Boston, Massachusetts</string>
+				<string>Bridgeport, Connecticut</string>
+				<string>Brooklyn, New York</string>
+				<string>Brownsville, Texas</string>
+				<string>Buffalo, New York</string>
+				<string>Burlington, Vermont</string>
+				<string>Cape Coral, Florida</string>
+				<string>Cary, North Carolina</string>
+				<string>Casper, Wyoming</string>
+				<string>Cedar Rapids, Iowa</string>
+				<string>Chandler, Arizona</string>
+				<string>Charleston, South Carolina</string>
+				<string>Charleston, West Virginia</string>
+				<string>Charlotte, North Carolina</string>
+				<string>Chattanooga, Tennessee</string>
+				<string>Chesapeake, Virginia</string>
+				<string>Cheyenne, Wyoming</string>
+				<string>Chicago, Illinois</string>
+				<string>Chula Vista, California</string>
+				<string>Cincinnati, Ohio</string>
+				<string>Clarksville, Tennessee</string>
+				<string>Cleveland, Ohio</string>
+				<string>Colchester, Vermont</string>
+				<string>Colorado Springs, Colorado</string>
+				<string>Columbia Heights, District of Columbia</string>
+				<string>Columbia, Maryland</string>
+				<string>Columbia, South Carolina</string>
+				<string>Columbus, Georgia</string>
+				<string>Columbus, Ohio</string>
+				<string>Concord, New Hampshire</string>
+				<string>Corona, California</string>
+				<string>Corpus Christi, Texas</string>
+				<string>Cranston, Rhode Island</string>
+				<string>Cypress, Texas</string>
+				<string>Dallas, Texas</string>
+				<string>Davenport, Iowa</string>
+				<string>Deer Valley, Arizona</string>
+				<string>Denver, Colorado</string>
+				<string>Des Moines, Iowa</string>
+				<string>Detroit, Michigan</string>
+				<string>Dover, Delaware</string>
+				<string>Downtown DC, District of Columbia</string>
+				<string>Durham, North Carolina</string>
+				<string>East Chattanooga, Tennessee</string>
+				<string>East Flatbush, New York</string>
+				<string>East Honolulu, Hawaii</string>
+				<string>East New York, New York</string>
+				<string>El Paso, Texas</string>
+				<string>Elk Grove, California</string>
+				<string>Escondido, California</string>
+				<string>Eugene, Oregon</string>
+				<string>Evansville, Indiana</string>
+				<string>Fairbanks, Alaska</string>
+				<string>Fargo, North Dakota</string>
+				<string>Fayetteville, Arkansas</string>
+				<string>Fayetteville, North Carolina</string>
+				<string>Fontana, California</string>
+				<string>Fort Collins, Colorado</string>
+				<string>Fort Lauderdale, Florida</string>
+				<string>Fort Smith, Arkansas</string>
+				<string>Fort Wayne, Indiana</string>
+				<string>Fort Worth, Texas</string>
+				<string>Fremont, California</string>
+				<string>Fresno, California</string>
+				<string>Frisco, Texas</string>
+				<string>Garden Grove, California</string>
+				<string>Garland, Texas</string>
+				<string>Germantown, Maryland</string>
+				<string>Gilbert, Arizona</string>
+				<string>Gillette, Wyoming</string>
+				<string>Glendale, Arizona</string>
+				<string>Glendale, California</string>
+				<string>Grand Forks, North Dakota</string>
+				<string>Grand Prairie, Texas</string>
+				<string>Grand Rapids, Michigan</string>
+				<string>Great Falls, Montana</string>
+				<string>Green Bay, Wisconsin</string>
+				<string>Greensboro, North Carolina</string>
+				<string>Gulfport, Mississippi</string>
+				<string>Hayward, California</string>
+				<string>Henderson, Nevada</string>
+				<string>Hialeah, Florida</string>
+				<string>Hollywood, California</string>
+				<string>Honolulu, Hawaii</string>
+				<string>Houston, Texas</string>
+				<string>Huntington Beach, California</string>
+				<string>Huntington, West Virginia</string>
+				<string>Huntsville, Alabama</string>
+				<string>Indianapolis, Indiana</string>
+				<string>Irvine, California</string>
+				<string>Irving, Texas</string>
+				<string>Jackson, Mississippi</string>
+				<string>Jacksonville, Florida</string>
+				<string>Jamaica, New York</string>
+				<string>Jersey City, New Jersey</string>
+				<string>Juneau, Alaska</string>
+				<string>Kansas City, Kansas</string>
+				<string>Kansas City, Missouri</string>
+				<string>Knoxville, Tennessee</string>
+				<string>Lakewood, Colorado</string>
+				<string>Lancaster, California</string>
+				<string>Laredo, Texas</string>
+				<string>Las Cruces, New Mexico</string>
+				<string>Las Vegas, Nevada</string>
+				<string>Lewiston, Maine</string>
+				<string>Lexington-Fayette, Kentucky</string>
+				<string>Lexington, Kentucky</string>
+				<string>Lincoln, Nebraska</string>
+				<string>Little Rock, Arkansas</string>
+				<string>Long Beach, California</string>
+				<string>Los Angeles, California</string>
+				<string>Louisville, Kentucky</string>
+				<string>Lubbock, Texas</string>
+				<string>Madison, Wisconsin</string>
+				<string>Manchester, New Hampshire</string>
+				<string>Manhattan, New York</string>
+				<string>Maryvale, Arizona</string>
+				<string>McKinney, Texas</string>
+				<string>Meads, Kentucky</string>
+				<string>Memphis, Tennessee</string>
+				<string>Meridian, Idaho</string>
+				<string>Mesa, Arizona</string>
+				<string>Miami, Florida</string>
+				<string>Milwaukee, Wisconsin</string>
+				<string>Minneapolis, Minnesota</string>
+				<string>Missoula, Montana</string>
+				<string>Mobile, Alabama</string>
+				<string>Modesto, California</string>
+				<string>Montgomery, Alabama</string>
+				<string>Moreno Valley, California</string>
+				<string>Murfreesboro, Tennessee</string>
+				<string>Nampa, Idaho</string>
+				<string>Nashua, New Hampshire</string>
+				<string>Nashville, Tennessee</string>
+				<string>New Haven, Connecticut</string>
+				<string>New Orleans, Louisiana</string>
+				<string>New South Memphis, Tennessee</string>
+				<string>New York City, New York</string>
+				<string>Newark, Delaware</string>
+				<string>Newark, New Jersey</string>
+				<string>Newport News, Virginia</string>
+				<string>Norfolk, Virginia</string>
+				<string>Norman, Oklahoma</string>
+				<string>North Charleston, South Carolina</string>
+				<string>North Las Vegas, Nevada</string>
+				<string>Oakland, California</string>
+				<string>Oceanside, California</string>
+				<string>Oklahoma City, Oklahoma</string>
+				<string>Omaha, Nebraska</string>
+				<string>Ontario, California</string>
+				<string>Orlando, Florida</string>
+				<string>Overland Park, Kansas</string>
+				<string>Oxnard, California</string>
+				<string>Palmdale, California</string>
+				<string>Paradise, Nevada</string>
+				<string>Parkersburg, West Virginia</string>
+				<string>Pasadena, Texas</string>
+				<string>Paterson, New Jersey</string>
+				<string>Pearl City, Hawaii</string>
+				<string>Pembroke Pines, Florida</string>
+				<string>Peoria, Arizona</string>
+				<string>Philadelphia, Pennsylvania</string>
+				<string>Phoenix, Arizona</string>
+				<string>Pittsburgh, Pennsylvania</string>
+				<string>Plano, Texas</string>
+				<string>Pomona, California</string>
+				<string>Port Saint Lucie, Florida</string>
+				<string>Portland, Maine</string>
+				<string>Portland, Oregon</string>
+				<string>Providence, Rhode Island</string>
+				<string>Provo, Utah</string>
+				<string>Queens, New York</string>
+				<string>Raleigh, North Carolina</string>
+				<string>Rancho Cucamonga, California</string>
+				<string>Rapid City, South Dakota</string>
+				<string>Reno, Nevada</string>
+				<string>Richmond, Virginia</string>
+				<string>Rio Rancho, New Mexico</string>
+				<string>Riverside, California</string>
+				<string>Rochester, Minnesota</string>
+				<string>Rochester, New York</string>
+				<string>Rockford, Illinois</string>
+				<string>Sacramento, California</string>
+				<string>Saint Paul, Minnesota</string>
+				<string>Salem, Oregon</string>
+				<string>Salinas, California</string>
+				<string>Salt Lake City, Utah</string>
+				<string>San Antonio, Texas</string>
+				<string>San Bernardino, California</string>
+				<string>San Diego, California</string>
+				<string>San Francisco, California</string>
+				<string>San Jose, California</string>
+				<string>Santa Ana, California</string>
+				<string>Santa Clarita, California</string>
+				<string>Santa Rosa, California</string>
+				<string>Savannah, Georgia</string>
+				<string>Scottsdale, Arizona</string>
+				<string>Seattle, Washington</string>
+				<string>Shreveport, Louisiana</string>
+				<string>Sioux Falls, South Dakota</string>
+				<string>South Boston, Massachusetts</string>
+				<string>South Burlington, Vermont</string>
+				<string>Spokane, Washington</string>
+				<string>Spring Valley, Nevada</string>
+				<string>Springfield, Massachusetts</string>
+				<string>Springfield, Missouri</string>
+				<string>St. Louis, Missouri</string>
+				<string>St. Petersburg, Florida</string>
+				<string>Stamford, Connecticut</string>
+				<string>Staten Island, New York</string>
+				<string>Stockton, California</string>
+				<string>Sunnyvale, California</string>
+				<string>Sunrise Manor, Nevada</string>
+				<string>Tacoma, Washington</string>
+				<string>Tallahassee, Florida</string>
+				<string>Tampa, Florida</string>
+				<string>Tempe Junction, Arizona</string>
+				<string>Tempe, Arizona</string>
+				<string>The Bronx, New York</string>
+				<string>Toledo, Ohio</string>
+				<string>Tri-Cities, Washington</string>
+				<string>Tucson, Arizona</string>
+				<string>Tulsa, Oklahoma</string>
+				<string>Upper West Side, New York</string>
+				<string>Vancouver, Washington</string>
+				<string>Virginia Beach, Virginia</string>
+				<string>Warren, Michigan</string>
+				<string>Warwick, Rhode Island</string>
+				<string>Washington Heights, New York</string>
+				<string>Washington, District of Columbia</string>
+				<string>West Gulfport, Mississippi</string>
+				<string>West Raleigh, North Carolina</string>
+				<string>West Valley City, Utah</string>
+				<string>Wichita, Kansas</string>
+				<string>Wilmington, Delaware</string>
+				<string>Winston-Salem, North Carolina</string>
+				<string>Worcester, Massachusetts</string>
+				<string>Yonkers, New York</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<integer>0</integer>
+				<integer>824836099</integer>
+				<integer>824442885</integer>
+				<integer>824180737</integer>
+				<integer>825163783</integer>
+				<integer>824639491</integer>
+				<integer>824967183</integer>
+				<integer>822411274</integer>
+				<integer>822214657</integer>
+				<integer>824967175</integer>
+				<integer>825163781</integer>
+				<integer>824246287</integer>
+				<integer>822804481</integer>
+				<integer>822476803</integer>
+				<integer>823001090</integer>
+				<integer>824967173</integer>
+				<integer>822411273</integer>
+				<integer>823459841</integer>
+				<integer>823394307</integer>
+				<integer>823328770</integer>
+				<integer>823918595</integer>
+				<integer>823853057</integer>
+				<integer>822149122</integer>
+				<integer>824377346</integer>
+				<integer>822935553</integer>
+				<integer>823525377</integer>
+				<integer>822542337</integer>
+				<integer>824246274</integer>
+				<integer>824967185</integer>
+				<integer>824246279</integer>
+				<integer>825098241</integer>
+				<integer>822738953</integer>
+				<integer>824311816</integer>
+				<integer>825425922</integer>
+				<integer>823132162</integer>
+				<integer>822280196</integer>
+				<integer>824770562</integer>
+				<integer>825294850</integer>
+				<integer>824311809</integer>
+				<integer>824901637</integer>
+				<integer>825163779</integer>
+				<integer>825425921</integer>
+				<integer>823001089</integer>
+				<integer>822411278</integer>
+				<integer>824442883</integer>
+				<integer>824901638</integer>
+				<integer>824442882</integer>
+				<integer>825098243</integer>
+				<integer>822476802</integer>
+				<integer>822673411</integer>
+				<integer>823459842</integer>
+				<integer>824770561</integer>
+				<integer>822804482</integer>
+				<integer>824442881</integer>
+				<integer>824049667</integer>
+				<integer>822411296</integer>
+				<integer>824967176</integer>
+				<integer>824705027</integer>
+				<integer>824967182</integer>
+				<integer>824967171</integer>
+				<integer>823132163</integer>
+				<integer>822280203</integer>
+				<integer>822476801</integer>
+				<integer>823132161</integer>
+				<integer>823590913</integer>
+				<integer>822607874</integer>
+				<integer>822673410</integer>
+				<integer>824311813</integer>
+				<integer>824901640</integer>
+				<integer>824246284</integer>
+				<integer>822870018</integer>
+				<integer>824246285</integer>
+				<integer>824967174</integer>
+				<integer>822411295</integer>
+				<integer>822411303</integer>
+				<integer>824573954</integer>
+				<integer>823066627</integer>
+				<integer>822214658</integer>
+				<integer>824377345</integer>
+				<integer>822345731</integer>
+				<integer>824311815</integer>
+				<integer>822411282</integer>
+				<integer>822476804</integer>
+				<integer>822738952</integer>
+				<integer>822345730</integer>
+				<integer>823066626</integer>
+				<integer>824967172</integer>
+				<integer>822411280</integer>
+				<integer>822411269</integer>
+				<integer>824967187</integer>
+				<integer>822411291</integer>
+				<integer>824967180</integer>
+				<integer>823459843</integer>
+				<integer>822280197</integer>
+				<integer>825425923</integer>
+				<integer>822280198</integer>
+				<integer>822411287</integer>
+				<integer>824377347</integer>
+				<integer>824967184</integer>
+				<integer>823590914</integer>
+				<integer>823853059</integer>
+				<integer>825360387</integer>
+				<integer>824311812</integer>
+				<integer>823721986</integer>
+				<integer>822411299</integer>
+				<integer>823984130</integer>
+				<integer>822738950</integer>
+				<integer>822411294</integer>
+				<integer>822870017</integer>
+				<integer>824967169</integer>
+				<integer>822411286</integer>
+				<integer>825294849</integer>
+				<integer>822149121</integer>
+				<integer>823066625</integer>
+				<integer>822411279</integer>
+				<integer>824967181</integer>
+				<integer>823721985</integer>
+				<integer>822738945</integer>
+				<integer>824246281</integer>
+				<integer>824115202</integer>
+				<integer>822214659</integer>
+				<integer>823197699</integer>
+				<integer>823787521</integer>
+				<integer>824901636</integer>
+				<integer>822476805</integer>
+				<integer>822411297</integer>
+				<integer>824967178</integer>
+				<integer>824180738</integer>
+				<integer>823984129</integer>
+				<integer>823394306</integer>
+				<integer>823263235</integer>
+				<integer>823263234</integer>
+				<integer>823918594</integer>
+				<integer>822345729</integer>
+				<integer>822411271</integer>
+				<integer>822411265</integer>
+				<integer>823263233</integer>
+				<integer>824967179</integer>
+				<integer>825360386</integer>
+				<integer>824049665</integer>
+				<integer>824246276</integer>
+				<integer>822280200</integer>
+				<integer>824967186</integer>
+				<integer>823263236</integer>
+				<integer>824901635</integer>
+				<integer>822935554</integer>
+				<integer>822280195</integer>
+				<integer>822738946</integer>
+				<integer>825360385</integer>
+				<integer>823656449</integer>
+				<integer>823853058</integer>
+				<integer>822149124</integer>
+				<integer>822411283</integer>
+				<integer>822149123</integer>
+				<integer>822411285</integer>
+				<integer>824901639</integer>
+				<integer>822935555</integer>
+				<integer>824049666</integer>
+				<integer>824901633</integer>
+				<integer>822542338</integer>
+				<integer>823328769</integer>
+				<integer>824901634</integer>
+				<integer>824246273</integer>
+				<integer>822607875</integer>
+				<integer>824115201</integer>
+				<integer>825163782</integer>
+				<integer>825163778</integer>
+				<integer>824508419</integer>
+				<integer>824770563</integer>
+				<integer>823984132</integer>
+				<integer>822411272</integer>
+				<integer>822411290</integer>
+				<integer>824508417</integer>
+				<integer>823918593</integer>
+				<integer>822411293</integer>
+				<integer>822738948</integer>
+				<integer>823197698</integer>
+				<integer>822411284</integer>
+				<integer>822411298</integer>
+				<integer>823984133</integer>
+				<integer>825294851</integer>
+				<integer>824967188</integer>
+				<integer>824115203</integer>
+				<integer>822870019</integer>
+				<integer>822738954</integer>
+				<integer>822280201</integer>
+				<integer>824639489</integer>
+				<integer>822280193</integer>
+				<integer>824639490</integer>
+				<integer>824967177</integer>
+				<integer>822411302</integer>
+				<integer>822738955</integer>
+				<integer>823394305</integer>
+				<integer>824573953</integer>
+				<integer>824705025</integer>
+				<integer>825032707</integer>
+				<integer>824246275</integer>
+				<integer>824311810</integer>
+				<integer>822411292</integer>
+				<integer>824836098</integer>
+				<integer>823984131</integer>
+				<integer>825163780</integer>
+				<integer>824180739</integer>
+				<integer>822411275</integer>
+				<integer>823656451</integer>
+				<integer>824246282</integer>
+				<integer>823001091</integer>
+				<integer>822411270</integer>
+				<integer>823656450</integer>
+				<integer>824573955</integer>
+				<integer>822411300</integer>
+				<integer>825032705</integer>
+				<integer>824967170</integer>
+				<integer>822411281</integer>
+				<integer>822411266</integer>
+				<integer>822411268</integer>
+				<integer>822411267</integer>
+				<integer>822411276</integer>
+				<integer>822411288</integer>
+				<integer>822411289</integer>
+				<integer>822804483</integer>
+				<integer>822280199</integer>
+				<integer>825229313</integer>
+				<integer>823328771</integer>
+				<integer>824836097</integer>
+				<integer>823525378</integer>
+				<integer>825098242</integer>
+				<integer>825229315</integer>
+				<integer>823984135</integer>
+				<integer>823525380</integer>
+				<integer>823787523</integer>
+				<integer>823787522</integer>
+				<integer>822738949</integer>
+				<integer>822542339</integer>
+				<integer>824246278</integer>
+				<integer>822411277</integer>
+				<integer>822411301</integer>
+				<integer>823984134</integer>
+				<integer>825229316</integer>
+				<integer>822738951</integer>
+				<integer>822738947</integer>
+				<integer>822280204</integer>
+				<integer>822280202</integer>
+				<integer>824246277</integer>
+				<integer>824442884</integer>
+				<integer>825229314</integer>
+				<integer>822280194</integer>
+				<integer>824508418</integer>
+				<integer>824246280</integer>
+				<integer>825229317</integer>
+				<integer>825163777</integer>
+				<integer>823590915</integer>
+				<integer>824705026</integer>
+				<integer>824246286</integer>
+				<integer>822673409</integer>
+				<integer>823721987</integer>
+				<integer>824311811</integer>
+				<integer>825032706</integer>
+				<integer>823197697</integer>
+				<integer>822607873</integer>
+				<integer>824311814</integer>
+				<integer>823525379</integer>
+				<integer>824246283</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Forecast data: Open-Meteo (CC BY 4.0). Cities: GeoNames (CC BY 4.0).</string>
+			<key>Title</key>
+			<string>Display</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<integer>1</integer>
+			<key>Key</key>
+			<string>temp_unit</string>
+			<key>Title</key>
+			<string>Temperature Display</string>
+			<key>Titles</key>
+			<array>
+				<string>Celsius</string>
+				<string>Fahrenheit</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<integer>0</integer>
+			<key>Key</key>
+			<string>wind_unit</string>
+			<key>Title</key>
+			<string>Wind Display</string>
+			<key>Titles</key>
+			<array>
+				<string>mph</string>
+				<string>km/h</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Turn on, then open Forecast Channel: the downloaded forecasts are deleted and downloaded again.</string>
+			<key>Title</key>
+			<string>Data</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>reset_data</string>
+			<key>Title</key>
+			<string>Reset Downloaded Data</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

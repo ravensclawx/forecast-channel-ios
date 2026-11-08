@@ -1,0 +1,4 @@
+// Copy to Local.xcconfig (gitignored) and fill in your Apple developer team ID (Xcode → Settings → Accounts).
+DEVELOPMENT_TEAM = YOURTEAMID
+// Optional: a bundle ID unique to you (needed with a free Personal Team).
+// PRODUCT_BUNDLE_IDENTIFIER = com.yourname.forecastchannel

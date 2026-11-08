@@ -1,0 +1,7 @@
+object: ../orig/main.dol
+hash: 3c3bdec3e81441325e093c49380163e9d744597f
+symbols: config/HAFE/symbols.txt
+splits: config/HAFE/splits.txt
+detect_objects: true
+detect_strings: true
+write_asm: true

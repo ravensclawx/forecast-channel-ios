@@ -1,0 +1,3 @@
+// Shared build settings for the iPhone app. Personal signing settings go in Local.xcconfig (optional, gitignored).
+PRODUCT_BUNDLE_IDENTIFIER = com.ravensclawx.forecastchannel
+#include? "Local.xcconfig"
