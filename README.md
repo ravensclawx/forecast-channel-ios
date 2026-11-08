@@ -10,7 +10,12 @@ screen. It shows live weather. There is also a macOS build that runs the channel
 > copy of the Forecast Channel (USA, title HAFE, v7) and your own Wii common key. The app reads them at build
 > time; nothing from them is committed.
 
-![screenshots](docs/) <!-- add your own captures to docs/ -->
+<p align="center">
+  <img src="docs/current.png" width="200" alt="Current conditions">
+  <img src="docs/five-day.png" width="200" alt="5-Day forecast">
+  <img src="docs/city-from-globe.png" width="200" alt="A city opened from the globe">
+  <img src="docs/globe-stars.png" width="200" alt="The globe among the stars">
+</p>
 
 ## Features
 
